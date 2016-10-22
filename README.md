@@ -7,3 +7,5 @@ All you will need is listed below:
   Arduino UNO R3 (Recommended)        - Amazon aprox £7
   
   GPS Antena for GPS - Amazon (Optional - I did not use this in my project)
+  
+  NOTE: This Project will progress gradualy as I am doing it every wensday with my STEM club. Please post any comments or conserns in the issues section.
